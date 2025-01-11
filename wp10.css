@@ -1,0 +1,15 @@
+/* title: Your Style Name */
+/* author: [Your Name](https://github.com/yourusername) */
+/* icon: https://link-to-your-icon.png */
+/* description: Brief description of your style */
+
+#app div.slide-page-home.wallpaper-behind {
+  background-size: cover !important; 
+} 
+#app div.slide-page-home.wallpaper-behind div.groove-home-tile {
+  background: transparent !important;
+  --metro-transparent-2: var(--accent-color);
+}
+#app div.slide-page-home.wallpaper-behind div.groove-home-tile div.live-tile-matrix-container {
+  background: var(--accent-color), 50%;
+}
