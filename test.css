@@ -4,7 +4,7 @@
 /* description: Weird ahh theme for Groove Launcher */
 
 #app {
-  background: #141D23;
+  background: (var(--accent-color), 25%);
 }
 
 #app div.groove-app-tile div.groove-app-tile-icon  {
@@ -15,4 +15,8 @@
 #app div.groove-home-inner-tile {
   border-radius: 16px;
   background: #500011;
+}
+
+#app div.app-page-icon-banner {
+  background: transparent !important;
 }
