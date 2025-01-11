@@ -4,7 +4,7 @@
 /* description: Rounded tiles theme for Groove Launcher */
 
 #app div.groove-app-tile div.groove-app-tile-icon  {
-  border-radius: 10px;
+  border-radius: 8px;
 }
 
 #app div.groove-home-inner-tile {
