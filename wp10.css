@@ -43,4 +43,7 @@
     opacity: 0;
 }
 
-#app div.slide-page-home.wallpaper-behind div.groove-home-tile.t_active div.groove-home-inner-tile { background: rgba(50, 50, 50, .5) !important; }
+#app div.slide-page-home.wallpaper-behind div.groove-home-tile div.groove-home-inner-tile {
+    background: var(--accent-color) !important;
+    opacity: 0.5;
+}
