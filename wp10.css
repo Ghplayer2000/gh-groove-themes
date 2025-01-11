@@ -28,10 +28,5 @@
     opacity: 0;
     
 #app div.groove-home-tile div.groove-home-inner-tile {
-    background: var(--accent-color) !important;
-    opacity: 0.5;
-}
-
-#app p.groove-app-tile-icon {
-  opacity: 1;
+    background: var(--accent-color), 50% !important;
 }
