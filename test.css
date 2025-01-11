@@ -1,10 +1,10 @@
-/* title: Neon Groove Theme */
-/* author: [Example User](https://github.com/example) */
+/* title: You Theme */
+/* author: [ghplayer2000](https://github.com/ghplayer2000) */
 /* icon: https://example.com/neon-icon.png */
 /* description: Weird ahh theme for Groove Launcher */
 
 #app {
-  background-color: #141D23;
+  background: #141D23;
 }
 
 #app div.groove-app-tile {
