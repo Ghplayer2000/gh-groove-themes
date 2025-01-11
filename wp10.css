@@ -1,7 +1,7 @@
-/* title: WLite Mode */
-/* author: [Berkay Tumal](https://github.com/berkaytumal) */
+/* title: WP10 Theme */
+/* author: [ghplayer2000](https://github.com/ghplayer2000) */
 /* icon: https://raw.githubusercontent.com/groovelauncher/GrooveLauncher/refs/heads/main/themes/lite-mode/icon.webp */
-/* description: A lightweight theme optimized for older devices with reduced animations and processing requirements */
+/* description: Windows Phone 10 theme */
 #app div.tile-list-page {
     max-width: none;
     mix-blend-mode: normal !important;
@@ -30,4 +30,8 @@
 #app div.groove-home-tile div.groove-home-inner-tile {
     background: var(--accent-color) !important;
     opacity: 0.5;
+}
+
+#app div.groove-letter-tile p.groove-app-tile-icon {
+  opacity: 1;
 }
