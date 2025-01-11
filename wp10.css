@@ -27,7 +27,7 @@
 #app #main-home-slider.app-transition-on-pause div.slide-page-home.wallpaper-behind {
     opacity: 0;
     
-#app div.groove-home-tile {
+#app div.groove-home-tile div.groove-home-inner-tile {
     background: var(--accent-color) !important;
     opacity: 0.5;
 }
