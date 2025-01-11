@@ -2,21 +2,6 @@
 /* author: [Berkay Tumal](https://github.com/berkaytumal) */
 /* icon: https://raw.githubusercontent.com/groovelauncher/GrooveLauncher/refs/heads/main/themes/lite-mode/icon.webp */
 /* description: A lightweight theme optimized for older devices with reduced animations and processing requirements */
-
-/* :root {
-    --flow-perspective: 9999999999px;
-}
-* {
-    transform-style: flat !important;
-    perspective: 9999999999px;
-    --flow-rotate-scale: 0px !important;
-    --flow-touch-distance: 0px;
-    --shake-x: 0px !important;
-    --shake-y: 0px !important;
-} */
-/* #app div.groove-home-tile.t_active, #app div.groove-app-tile.t_active, #app div.letter-selector-letter.t_active {
-    transform: scale(0.95);
-} */
 #app div.tile-list-page {
     max-width: none;
     mix-blend-mode: normal !important;
@@ -30,9 +15,9 @@
     background: transparent !important;
     --metro-transparent-2: var(--accent-color);
 }
-#app div.slide-page-home.wallpaper-behind div.groove-home-tile div.live-tile-matrix-container {
+/* #app div.slide-page-home.wallpaper-behind div.groove-home-tile div.live-tile-matrix-container {
     background: var(--accent-color), 50%;
-}
+} */
 #app div.app-page-icon-banner {
     background: transparent !important;
 }
@@ -41,9 +26,8 @@
 }
 #app #main-home-slider.app-transition-on-pause div.slide-page-home.wallpaper-behind {
     opacity: 0;
-}
-
-#app div.slide-page-home.wallpaper-behind div.groove-home-tile div.groove-home-inner-tile {
+    
+#app div.groove-home-tile {
     background: var(--accent-color) !important;
     opacity: 0.5;
 }
