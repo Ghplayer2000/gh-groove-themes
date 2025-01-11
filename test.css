@@ -9,4 +9,9 @@
 
 #app div.groove-app-tile div.groove-app-tile-icon  {
   background: #00FF00;
+  border-radius: 100%;
+}
+
+#app div.groove-home-inner-tile {
   border-radius: 16px;
+}
