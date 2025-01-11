@@ -1,16 +1,12 @@
-/* title: You Theme */
+/* title: Rounded tiles */
 /* author: [ghplayer2000](https://github.com/ghplayer2000) */
 /* icon: https://example.com/neon-icon.png */
-/* description: Weird ahh theme for Groove Launcher */
+/* description: Rounded tiles theme for Groove Launcher */
 
 #app div.groove-app-tile div.groove-app-tile-icon  {
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 #app div.groove-home-inner-tile {
   border-radius: 16px;
-}
-
-#app div.groove-app-tile div.groove-app-tile-icon::after {
-  border-radius: 8px;
 }
