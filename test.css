@@ -4,5 +4,9 @@
 /* description: Weird ahh theme for Groove Launcher */
 
 #app {
-  background: transparent;
+  background: #FF141D23;
+}
+
+#app div.groove-app-tile {
+  border-radius: 16px;
 }
