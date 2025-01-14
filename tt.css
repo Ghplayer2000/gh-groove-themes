@@ -11,11 +11,11 @@ div.tile-list-page {
 div.slide-page-home.wallpaper-behind {
         div.groove-home-tile {
             background: transparent !important;
-            --accent-color:transparent;
-            --metro-transparent-2: var(--accent-color);
+            /* --metro-transparent-2: var(--accent-color); */
 
-            div.live-tile-matrix-container {
+        div.live-tile-matrix-container {
                 background: var(--accent-color);
+                opacity: 0.5;
             }
         }
 
