@@ -3,6 +3,10 @@
 /* icon: https://ghplayer2000.github.io/gh-groove-themes/rounded.png */
 /* description: Rounded tiles theme for Groove Launcher */
 
+#app {
+  background: var(--accent-color);
+}
+
 #app div.groove-app-tile div.groove-app-tile-icon  {
   border-radius: 8px;
 }
@@ -12,3 +16,9 @@
   border-style: solid;
   border-color: #FFFFFF #808080 #808080 #FFFFFF;
 }
+
+#app div.groove-home-tile {
+  background: #C0C0C0;
+}
+
+
