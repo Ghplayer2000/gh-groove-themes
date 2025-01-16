@@ -47,3 +47,7 @@
 #app #main-home-slider.app-transition div.slide-page-home.wallpaper-behind {
     opacity: 0;
 }
+
+#app div.groove-home-tile div.groove-home-inner-tile p.groove-home-tile-title {
+  font-family: W95;
+}
