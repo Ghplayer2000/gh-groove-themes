@@ -4,20 +4,20 @@
 /* description: Rounded tiles theme for Groove Launcher */
 
 #app {
-  background: var(--accent-color);
+  background: #008080;
 }
 
-#app div.groove-app-tile div.groove-app-tile-icon  {
-  border-radius: 8px;
+#app div.groove-app-tile {
+  border-width: 8px;
+  border-style: solid;
+  border-color: #FFFFFF #808080 #808080 #FFFFFF;
+  background: #C0C0C0;
 }
 
 #app div.groove-home-inner-tile {
-  border-width: 1px;
+  border-width: 8px;
   border-style: solid;
   border-color: #FFFFFF #808080 #808080 #FFFFFF;
-}
-
-#app div.groove-home-tile {
   background: #C0C0C0;
 }
 
