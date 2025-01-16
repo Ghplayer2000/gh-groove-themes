@@ -1,7 +1,7 @@
 /* title: Windows 95 */
 /* author: [ghplayer2000](https://github.com/ghplayer2000) */
 /* icon: https://ghplayer2000.github.io/gh-groove-themes/rounded.png */
-/* description: Windows 95 Theme*/
+/* description: Windows 95 Theme */
 @font-face {
   font-family: 'W95'; 	 
   src: url("ghplayer2000.github.io/gh-groove-themes/W95FA.otf"); 	
@@ -45,9 +45,9 @@
     background-size: cover !important;
 }
 #app #main-home-slider.app-transition div.slide-page-home.wallpaper-behind {
-    opacity: 0;
+    /* opacity: 0; */
 }
 
-#app div.groove-home-tile div.groove-home-inner-tile p.groove-home-tile-title {
+/* #app div.groove-home-tile div.groove-home-inner-tile p.groove-home-tile-title {
   font-family: W95;
-}
+} */
