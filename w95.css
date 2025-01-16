@@ -2,9 +2,16 @@
 /* author: [ghplayer2000](https://github.com/ghplayer2000) */
 /* icon: https://ghplayer2000.github.io/gh-groove-themes/rounded.png */
 /* description: Windows 95 Theme*/
+@font-face {
+  font-family: 'W95'; 	 
+  src: url("ghplayer2000.github.io/gh-groove-themes/w95.otf"); 	
+  font-weight: normal; 	 
+  font-style: normal; 
+}
 
 #app {
   background: #008080;
+  font-family: W95 !important;
 }
 
 #app div.groove-app-tile-icon {
