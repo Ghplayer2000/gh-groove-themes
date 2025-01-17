@@ -44,9 +44,14 @@
 }
 
 #app p.groove-home-tile-title div.groove-letter-tile p.groove-app-tile-icon {
-  font-family: 'W95';
+  font-family: 'W95' !important;
 }
 
 #app p.groove-home-tile-title {
-  color: black;
+  color: black !important;
 }
+
+#app groove-home-tile-imageicon {
+  filter: brightness(0) saturate(100%);
+}
+
