@@ -50,6 +50,7 @@
 }
 
 #app-page-icon > p {
+  content: "Start";
   padding: 8px;
   color: black;
   line-height: 24px;
@@ -61,7 +62,7 @@
 .groove-element.groove-letter-tile {
   border-width: 2px;
   border-style: solid;
-  border-color: #808080 #808080 #FFFFFF #FFFFFF:
+  border-color: #808080 #808080 #FFFFFF #FFFFFF;
   background: #C0C0C0 !important;
   height: 0px;
   width: 999999px !important; 
