@@ -57,3 +57,17 @@
   position: unset;
   font-weight: normal;
 }
+
+.groove-element.groove-letter-tile {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #808080 #808080 #FFFFFF #FFFFFF:
+  background: #C0C0C0 !important;
+  height: 0px;
+  width: 999999px !important; 
+  overflow: hidden;
+}
+
+.inner-page > .app-list {
+  background: #C0C0C0 !important;
+}
