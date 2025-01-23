@@ -10,3 +10,7 @@
 #app div.groove-home-inner-tile {
   border-radius: 16px;
 }
+
+.groove-home-inner-tile, .groove-app-tile-icon{
+  overflow:hidden;
+}
